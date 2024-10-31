@@ -1,4 +1,6 @@
 # **Breast Cancer Detection Using Support Vector Machine (SVM)**
+
+
 This project implements a Support Vector Machine (SVM) model to classify breast cancer tumors as malignant or benign. Using the Breast Cancer Wisconsin (Diagnostic) Dataset, we explore SVM's effectiveness in binary classification for medical diagnosis. The model aims to help in identifying cancerous cases accurately, providing valuable support for early intervention.
 
 **Project Overview**
@@ -12,6 +14,8 @@ The project focuses on building a supervised machine learning model using an SVM
 **Data Preprocessing:** 
 
 Cleaning, transforming, and splitting the data into training and test sets.
+
+
 **Exploratory Data Analysis (EDA):**
 
 Visualizing class distribution and exploring relationships between features to understand data patterns.
@@ -25,6 +29,8 @@ Implementing and training an SVM classifier with a linear kernel to achieve init
 **Model Evaluation:**
 
 Assessing the model's accuracy, precision, recall, and F1 score to understand its performance.
+
+
 **Hyperparameter Tuning (Optional):** 
 
 Using GridSearchCV to optimize model parameters for improved performance.
